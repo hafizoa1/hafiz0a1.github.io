@@ -13,7 +13,7 @@ const stats = [
     }, 
     {
         num: 4, 
-        text: "Technologies mastetred"
+        text: "Technologies mastered"
     }, 
     {
         num: 200, //dynamically generated 
