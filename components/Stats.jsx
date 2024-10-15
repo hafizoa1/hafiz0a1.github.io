@@ -15,11 +15,6 @@ const stats = [
         num: 4, 
         text: "Technologies mastered"
     }, 
-    {
-        num: 200, //dynamically generated 
-        text: "Code commits"
-    }, 
-
 ]
 
 const Stats = () => {
